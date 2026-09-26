@@ -10,7 +10,7 @@ const USE_CASES = [
   },
   {
     title: "Invoice reconciliation",
-    body: "Melvatron explains a mismatch line-by-line and proposes the correction before it reaches AP.",
+    body: "Maveron Tech explains a mismatch line-by-line and proposes the correction before it reaches AP.",
     image: "invoice",
   },
   {

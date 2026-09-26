@@ -5,7 +5,7 @@ import { gsap } from "../lib/gsap";
 const QUOTES = [
   {
     quote:
-      "Vendors stopped emailing our AP team for invoice status. Melvatron just tells them, sourced straight from SAP.",
+      "Vendors stopped emailing our AP team for invoice status. Maveron Tech just tells them, sourced straight from SAP.",
     name: "Head of Vendor Operations",
     company: "Aravex Manufacturing",
     avatar: "portrait-1",

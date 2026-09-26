@@ -16,14 +16,14 @@ export default function CTA() {
         </p>
         <div data-reveal className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
-            href="mailto:hello@melvatron.com"
+            href="mailto:hello@maveron Tech.com"
             className="group inline-flex items-center gap-2 rounded-full bg-paper px-7 py-4 text-sm font-medium text-ink transition-transform duration-300 hover:scale-[1.03]"
           >
             Book a demo
             <ArrowRight size={16} weight="bold" className="transition-transform duration-300 group-hover:translate-x-1" />
           </a>
           <a
-            href="mailto:hello@melvatron.com"
+            href="mailto:hello@maveron Tech.com"
             className="inline-flex items-center gap-2 rounded-full border border-white/15 px-7 py-4 text-sm font-medium text-paper transition-colors duration-300 hover:border-white/40 hover:bg-white/5"
           >
             Talk to an engineer

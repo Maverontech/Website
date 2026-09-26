@@ -13,7 +13,7 @@ const COLUMNS = [
     heading: "Company",
     links: [
       { label: "Customers", href: "#customers" },
-      { label: "Contact", href: "mailto:hello@melvatron.com" },
+      { label: "Contact", href: "mailto:info@maverontech.com" },
     ],
   },
   {
@@ -46,7 +46,7 @@ export default function Footer() {
                   strokeOpacity="0.7"
                 />
               </svg>
-              <span className="font-mono text-sm text-paper">melvatron</span>
+              <span className="font-mono text-sm text-paper">maveron Tech</span>
             </div>
             <p className="mt-4 text-sm leading-relaxed text-paper/45">
               SAP-native GPTs for the vendors who keep your supply chain running.
@@ -54,14 +54,14 @@ export default function Footer() {
             <div className="mt-6 flex items-center gap-3">
               <a
                 href="#"
-                aria-label="Melvatron on LinkedIn"
+                aria-label="Maveron Tech on LinkedIn"
                 className="grid h-9 w-9 place-items-center rounded-full border border-white/10 text-paper/60 transition-colors hover:border-white/30 hover:text-paper"
               >
                 <LinkedinLogo size={16} />
               </a>
               <a
                 href="#"
-                aria-label="Melvatron on X"
+                aria-label="Maveron Tech on X"
                 className="grid h-9 w-9 place-items-center rounded-full border border-white/10 text-paper/60 transition-colors hover:border-white/30 hover:text-paper"
               >
                 <XLogo size={16} />
@@ -81,7 +81,7 @@ export default function Footer() {
                         className="text-sm text-paper/45 transition-colors hover:text-paper"
                       >
                         {link.label}
-                      </a>
+                      </a>    
                     </li>
                   ))}
                 </ul>
@@ -91,7 +91,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 flex flex-col gap-2 border-t border-ink-line pt-8 text-xs text-paper/35 sm:flex-row sm:items-center sm:justify-between">
-          <span>© {new Date().getFullYear()} Melvatron. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} Maveron Tech. All rights reserved.</span>
           <span>Not affiliated with or endorsed by SAP SE.</span>
         </div>
       </div>

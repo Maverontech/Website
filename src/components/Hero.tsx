@@ -38,7 +38,7 @@ export default function Hero() {
             SAP intelligence, built for the vendors who run it.
           </h1>
           <p className="mt-8 max-w-xl text-balance text-lg leading-relaxed text-paper/60">
-            Melvatron turns your SAP tenant into a live GPT co-pilot for vendors — procurement,
+            Maveron Tech turns your SAP tenant into a live GPT co-pilot for vendors — procurement,
             invoicing, and compliance, answered in seconds instead of tickets.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-4">

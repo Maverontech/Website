@@ -3,7 +3,7 @@ import { Broadcast, Plug, Rocket, ShieldCheck } from "@phosphor-icons/react";
 const STEPS = [
   {
     title: "Connect",
-    body: "Point Melvatron at your SAP tenant — ECC, S/4HANA, or a hybrid landscape. Read-only by default.",
+    body: "Point Maveron Tech at your SAP tenant — ECC, S/4HANA, or a hybrid landscape. Read-only by default.",
     image: "connect-sap",
     icon: Plug,
   },
