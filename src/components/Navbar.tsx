@@ -43,7 +43,7 @@ export default function Navbar() {
               strokeOpacity="0.7"
             />
           </svg>
-          <span className="font-mono text-sm tracking-tight text-paper">maveron Tech</span>
+          <span className="font-mono text-sm tracking-tight text-paper">Maveron Tech</span>
         </a>
 
         <ul className="hidden items-center gap-1 md:flex">

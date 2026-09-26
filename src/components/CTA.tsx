@@ -16,7 +16,7 @@ export default function CTA() {
         </p>
         <div data-reveal className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
-            href="mailto:hello@maveron Tech.com"
+            href="mailto:info@maverontech.com"
             className="group inline-flex items-center gap-2 rounded-full bg-paper px-7 py-4 text-sm font-medium text-ink transition-transform duration-300 hover:scale-[1.03]"
           >
             Book a demo
